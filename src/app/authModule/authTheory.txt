@@ -1,0 +1,14 @@
+
+Authentication :  Who you are ?
+
+Authorisation : What you are allowed for ?
+
+
+
+dependency :
+zod 
+express
+router 
+jsonwebtoken
+bcrypt
+npm install nodemailer
